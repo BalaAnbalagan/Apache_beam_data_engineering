@@ -52,3 +52,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Talk Track (not for repo)
+VIDEO_TALK_TRACK.md
