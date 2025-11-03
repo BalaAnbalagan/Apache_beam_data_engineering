@@ -2,6 +2,12 @@
 
 A comprehensive demonstration of Apache Beam's core features using a Smart Building IoT Sensor Monitoring pipeline.
 
+## 📹 Video Demonstration
+
+[![Apache Beam Features Demo](https://img.youtube.com/vi/Okh5OktHewA/maxresdefault.jpg)](https://youtu.be/Okh5OktHewA)
+
+**[Watch the full demonstration on YouTube →](https://youtu.be/Okh5OktHewA)**
+
 ## Overview
 
 This project demonstrates all 7 required Apache Beam features through a practical IoT use case that processes temperature and humidity sensor data from smart buildings.
